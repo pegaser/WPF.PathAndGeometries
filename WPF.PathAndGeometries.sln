@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WPF.PathAndGeometries", "WPF.PathAndGeometries\WPF.PathAndGeometries.csproj", "{684A9769-6E6C-4B90-8290-2AC9C3008075}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GeometryGroup", "GeometryGroup\GeometryGroup.csproj", "{B014660D-C463-47D8-BE48-04DB98363ADF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CombinedGeometryExample", "CombinedGeometryExample\CombinedGeometryExample.csproj", "{6191667B-C61E-4DA2-9883-FE1F88963D64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PathGeometryExamples", "PathGeometryExamples\PathGeometryExamples.csproj", "{A75E030B-658B-460E-AF27-C93263847874}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mini-Language", "Mini-Language\Mini-Language.csproj", "{3AE0F9E4-ED42-44DA-B471-C588FE7BF0AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clipping", "Clipping\Clipping.csproj", "{1144F07C-2FA0-4861-AB79-247EDB99B3B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{684A9769-6E6C-4B90-8290-2AC9C3008075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{684A9769-6E6C-4B90-8290-2AC9C3008075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{684A9769-6E6C-4B90-8290-2AC9C3008075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{684A9769-6E6C-4B90-8290-2AC9C3008075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B014660D-C463-47D8-BE48-04DB98363ADF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B014660D-C463-47D8-BE48-04DB98363ADF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B014660D-C463-47D8-BE48-04DB98363ADF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B014660D-C463-47D8-BE48-04DB98363ADF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6191667B-C61E-4DA2-9883-FE1F88963D64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6191667B-C61E-4DA2-9883-FE1F88963D64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6191667B-C61E-4DA2-9883-FE1F88963D64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6191667B-C61E-4DA2-9883-FE1F88963D64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A75E030B-658B-460E-AF27-C93263847874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A75E030B-658B-460E-AF27-C93263847874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A75E030B-658B-460E-AF27-C93263847874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A75E030B-658B-460E-AF27-C93263847874}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AE0F9E4-ED42-44DA-B471-C588FE7BF0AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AE0F9E4-ED42-44DA-B471-C588FE7BF0AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AE0F9E4-ED42-44DA-B471-C588FE7BF0AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AE0F9E4-ED42-44DA-B471-C588FE7BF0AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1144F07C-2FA0-4861-AB79-247EDB99B3B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1144F07C-2FA0-4861-AB79-247EDB99B3B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1144F07C-2FA0-4861-AB79-247EDB99B3B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1144F07C-2FA0-4861-AB79-247EDB99B3B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {141D6E43-EBCF-470A-92C2-67B2F92E9BD9}
+	EndGlobalSection
+EndGlobal
